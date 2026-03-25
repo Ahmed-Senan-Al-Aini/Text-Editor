@@ -1,6 +1,6 @@
 # Simple C++ Text Editor
 
-![Project Cover](assets/cover.png)
+<img src="https://raw.githubusercontent.com/Ahmed-Senan-Al-Aini/Text-Editor/main/assets/cover.png" alt="Project Cover" width="800">
 
 ## Overview
 
@@ -21,7 +21,7 @@ This project is a simple console-based text editor developed using the C++ progr
 
 The editor relies on a **Doubly Linked List** to represent text lines and utilizes two **Stacks** to implement the undo and redo functionalities. The following diagram illustrates the general data structure used in the editor:
 
-![Data Structure Diagram](assets/data_structure.png)
+<img src="https://raw.githubusercontent.com/Ahmed-Senan-Al-Aini/Text-Editor/main/assets/data_structure_en.png" alt="Data Structure Diagram" width="600">
 
 ## How to Run
 
@@ -58,15 +58,20 @@ To run this project, you will need a C++ compiler (such as g++) and a command-li
 #### Using Visual Studio (Windows)
 
 1.  **Create a New Project**: Open Visual Studio and create a new **Console App** project (C++).
-    ![Visual Studio - Create New Project](assets/vs_setup_1.png)
+    
+    <img src="https://raw.githubusercontent.com/Ahmed-Senan-Al-Aini/Text-Editor/main/assets/vs_setup_1.png" alt="Visual Studio - Create New Project" width="600">
+    
 2.  **Add Source Files**: Add `main.cpp`, `editor.cpp`, and `editor.h` to your project.
 3.  **Compile and Run**: Build the project (Ctrl+Shift+B) and then run it (F5 or Ctrl+F5).
-    ![Visual Studio - Build and Run](assets/vs_setup_2.png)
+    
+    <img src="https://raw.githubusercontent.com/Ahmed-Senan-Al-Aini/Text-Editor/main/assets/vs_setup_2.png" alt="Visual Studio - Build and Run" width="600">
 
 #### Using Dev-C++ (Windows)
 
 1.  **Create a New Project**: Open Dev-C++ and create a new **Console Application** project.
-    ![Dev-C++ - Create New Project](assets/dev_cpp_setup.jpg)
+    
+    <img src="https://raw.githubusercontent.com/Ahmed-Senan-Al-Aini/Text-Editor/main/assets/dev_cpp_setup.jpg" alt="Dev-C++ - Create New Project" width="600">
+    
 2.  **Add Source Files**: Add `main.cpp`, `editor.cpp`, and `editor.h` to your project.
 3.  **Compile and Run**: Compile the project (F9) and then run it (F10).
 
