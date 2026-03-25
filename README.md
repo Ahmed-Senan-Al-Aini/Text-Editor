@@ -21,7 +21,7 @@ This project is a simple console-based text editor developed using the C++ progr
 
 The editor relies on a **Doubly Linked List** to represent text lines and utilizes two **Stacks** to implement the undo and redo functionalities. The following diagram illustrates the general data structure used in the editor:
 
-![Data Structure Diagram](<img src="https://github.com/Ahmed-Senan-Al-Aini/Text-Editor/blob/main/assets/data_structure.png">)
+![Data Structure Diagram](assets/data_structure.png)
 
 ## How to Run
 
@@ -89,8 +89,6 @@ When the editor runs, a menu of available options will be displayed. You can ent
 *   `16`: Save file.
 *   `18`: Exit editor.
 
-
 ## Contributing
 
 Contributions to this project are welcome. If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
----
